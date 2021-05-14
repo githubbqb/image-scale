@@ -1,0 +1,25 @@
+{
+  "name": "images-widget",
+  "description": "a images widget",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:githubbqb/images-widget.git"
+  },
+  "version": "0.0.1",
+  "keywords": [
+    "images",
+    "image",
+    "img",
+    "imageswidget"
+  ],
+  "devDependencies": {},
+  "author": "1045991662@qq.com",
+  "dependencies": {},
+  "scripts": {},
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  }
+}
